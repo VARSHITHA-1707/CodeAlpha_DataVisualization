@@ -25,9 +25,9 @@ Upload codealpha_scraped_books.csv to your environment and run all cells sequent
 
 📁 Repository Structure
 Plaintext
-├── data_visualization.ipynb    # Main visualization and dashboard notebook
-├── codealpha_scraped_books.csv # Dataset used
-└── README.md                   # Project documentation
+├── data_visualization.ipynb        # Main visualization and dashboard notebook
+├── codealpha_scraped_books.csv     # Dataset used
+└── README.md                       # Project documentation
 
 ## 👤 Author
 * **Intern:** Varshitha
